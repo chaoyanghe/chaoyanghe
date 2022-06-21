@@ -1,6 +1,7 @@
 ### Hi friends 👋, nice to e-meet you here:-) Please drop me an email if you are interested in my company or research.
 
-![FedML Logo](./logo_homepage_2.webp)
+
+<img src="./logo_homepage_2.webp" alt="drawing" width="380"/>
 
 <b>Open and Collaborative AI Anywhere at Any Scale</b>
 
