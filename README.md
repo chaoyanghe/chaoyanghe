@@ -2,6 +2,8 @@
 
 ![FedML Logo](./logo_homepage_2.webp)
 
+<b>Open and Collaborative AI Anywhere at Any Scale</b>
+
 - Founder and CTO of FedML, Inc (https://fedml.ai), a company building open and collaborative AI anywhere at any scale
 - Ph.D. Degree in Computer Science, University of Southern California, Los Angeles, USA
 - A lifelong learner with a strong passion and interest in scientific research, engineering, production, R&D team management, and entrepreneurship.
