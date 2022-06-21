@@ -1,6 +1,7 @@
 ### Hi there 👋, nice to e-meet you here:-) Please drop me an email if you are interested in my company or research.
 
-- Founder and CTO of FedML (https://fedml.ai), Ph.D. Degree in Computer Science, University of Southern California, Los Angeles, USA
+- Founder and CTO of FedML, Inc (https://fedml.ai), a company building open and collaborative AI anywhere at any scale
+- Ph.D. Degree in Computer Science, University of Southern California, Los Angeles, USA
 - A lifelong learner with a strong passion and interest in scientific research, engineering, production, R&D team management, and entrepreneurship.
 - My Homepage: https://chaoyanghe.com
 - I's looking for full-time/part-time engineers to build products for FedML, Inc. If you are good at CV, NLP, Data Mining, or Edge Computing, Cloud Computing, Distributed Systems, please drop me an email. See https://fedml.ai/careers/ for details.
