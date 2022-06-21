@@ -10,7 +10,7 @@
 - A lifelong learner with a strong passion and interest in scientific research, engineering, production, R&D team management, and entrepreneurship.
 - My Homepage: https://chaoyanghe.com
 
-I's looking for full-time/part-time engineers to build products for FedML, Inc. If you are good at CV, NLP, Data Mining, or Edge Computing, Cloud Computing, Distributed Systems, please drop me an email. See https://fedml.ai/careers/ for details.
+I's looking for full-time/part-time researchers, engineers, interns to build products for FedML, Inc. If you are good at CV, NLP, Data Mining, or Edge Computing, Cloud Computing, Distributed Systems, please drop me an email. See https://fedml.ai/careers/ for details.
 
 <!--
 **chaoyanghe/chaoyanghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
