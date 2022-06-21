@@ -10,7 +10,7 @@
 - A lifelong learner with a strong passion and interest in scientific research, engineering, production, R&D team management, and entrepreneurship.
 - My Homepage: https://chaoyanghe.com
 
-I's looking for full-time/part-time researchers, engineers, interns to build products for FedML, Inc. If you are good at any area of Machine Learning (optimization, diverse learning paradigms), CV (embedded vision or cloud vision are both ok to us), NLP, Data Mining (e.g., graph neural networks), or Edge Computing (Android/IoS, IoTs, Web-React/Vue.js), Cloud Native Computing (e.g., Java Spring, Kubernetes), Distributed Systems (Distributed Training, NCCL, MQTT, RPC, MPI), Security/Privacy (MPC, DP, etc.), please drop me an email. See https://fedml.ai/careers/ for details.
+I's looking for full-time/part-time researchers, engineers, interns to build products for FedML, Inc. If you are good at any area of Machine Learning (optimization, diverse learning paradigms), CV (embedded vision or cloud vision), NLP, Data Mining (e.g., graph neural networks), or Edge Computing (Android/IoS, IoTs, Web-React/Vue.js), Cloud Native Computing (e.g., Java Spring, Kubernetes), Distributed Systems (Distributed Training, NCCL, MQTT, RPC, MPI), Security/Privacy (MPC, DP, etc.), please drop me an email. See https://fedml.ai/careers/ for details.
 
 <!--
 **chaoyanghe/chaoyanghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
