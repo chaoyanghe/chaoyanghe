@@ -1,4 +1,4 @@
-### Hi friends 👋, nice to e-meet you here:-) Please drop me an email if you are interested in my company or research.
+### Hi 👋, nice to e-meet you here:-) Please drop me an email if you are interested in my company or research.
 
 
 <img src="./logo_homepage_2.webp" alt="drawing" width="380"/>
