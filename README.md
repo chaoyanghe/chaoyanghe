@@ -1,4 +1,4 @@
-### Hi there 👋, nice to e-meet you here:-) Please drop me an email if you are interested in my company or research.
+### Hi friends 👋, nice to e-meet you here:-) Please drop me an email if you are interested in my company or research.
 
 ![FedML Logo](./logo_homepage_2.webp)
 
