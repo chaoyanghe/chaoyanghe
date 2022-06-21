@@ -1,5 +1,7 @@
 ### Hi there 👋, nice to e-meet you here:-) Please drop me an email if you are interested in my company or research.
 
+![FedML Logo](./logo_homepage_2.webp)
+
 - Founder and CTO of FedML, Inc (https://fedml.ai), a company building open and collaborative AI anywhere at any scale
 - Ph.D. Degree in Computer Science, University of Southern California, Los Angeles, USA
 - A lifelong learner with a strong passion and interest in scientific research, engineering, production, R&D team management, and entrepreneurship.
